@@ -9,7 +9,7 @@ namespace SignalRChat.Models
         [Display(Name = "Email")]
         public string Email { get; set; }
     }
-
+    //abcd
     public class ExternalLoginListViewModel
     {
         public string ReturnUrl { get; set; }
